@@ -8,15 +8,15 @@
 
 ## 🚀💻 Technologies & Tools
 <p float="left">
-  <img src="https://github.com/Tanwarat-Nat/tanwarat/blob/master/assets/go.png"  height="85" />
-  <img src="https://github.com/Tanwarat-Nat/tanwarat/blob/master/assets/postgres.png"  height="85" />
-  <img src="https://github.com/Tanwarat-Nat/tanwarat/blob/master/assets/mongodb.png"  height="85" />
-  <img src="https://github.com/Tanwarat-Nat/tanwarat/blob/master/assets/docker.png"  height="85" />
+  <img src="https://github.com/Tanwarat-Nat/Tanwarat-Nat/blob/main/assets/go.png"  height="85" />
+  <img src="https://github.com/Tanwarat-Nat/Tanwarat-Nat/blob/main/assets/postgres.png"  height="85" />
+  <img src="https://github.com/Tanwarat-Nat/Tanwarat-Nat/blob/main/assets/mongodb.png"  height="85" />
+  <img src="https://github.com/Tanwarat-Nat/Tanwarat-Nat/blob/main/assets/docker.png"  height="85" />
   <img src="https://github.com/Tanwarat-Nat/tanwarat/blob/master/assets/vs-code.png"  height="85" />
-  <img src="https://github.com/Tanwarat-Nat/tanwarat/blob/master/assets/chrome.png"  height="85" />
+  <img src="https://github.com/Tanwarat-Nat/Tanwarat-Nat/blob/main/assets/chrome.png"  height="85" />
   <img src="https://github.com/Tanwarat-Nat/tanwarat/blob/master/assets/terminal.png"  height="85" />
-  <img src="https://github.com/Tanwarat-Nat/tanwarat/blob/master/assets/github.png"  height="85" />
-  <img src="https://github.com/Tanwarat-Nat/tanwarat/blob/master/assets/git.png" height="85" />
+  <img src="https://github.com/Tanwarat-Nat/Tanwarat-Nat/blob/main/assets/github.png"  height="85" />
+  <img src="https://github.com/Tanwarat-Nat/Tanwarat-Nat/blob/main/assets/git.png" height="85" />
   
 </p>
 
