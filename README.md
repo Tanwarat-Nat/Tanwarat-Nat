@@ -4,7 +4,6 @@
 - 👋 Hi, I’m Tanwarat-Natsupukpong
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Golang
-- 💞️ I’m looking to collaborate on software developer team
 
 ## 🚀💻 Technologies & Tools
 <p float="left">
