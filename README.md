@@ -9,8 +9,6 @@
 <p float="left">
   <img src="https://github.com/Tanwarat-Nat/Tanwarat-Nat/blob/main/assets/go.png"  height="85" />
   <img src="https://github.com/Tanwarat-Nat/Tanwarat-Nat/blob/main/assets/postgres.png"  height="85" />
-  <img src="https://github.com/Tanwarat-Nat/Tanwarat-Nat/blob/main/assets/mongodb.png"  height="85" />
-  <img src="https://github.com/Tanwarat-Nat/Tanwarat-Nat/blob/main/assets/docker.png"  height="85" />
   <img src="https://github.com/Tanwarat-Nat/Tanwarat-Nat/blob/main/assets/vs-code.png"  height="85" />
   <img src="https://github.com/Tanwarat-Nat/Tanwarat-Nat/blob/main/assets/chrome.png"  height="85" />
   <img src="https://github.com/Tanwarat-Nat/Tanwarat-Nat/blob/main/assets/terminal.png"  height="85" />
